@@ -1,6 +1,6 @@
 {
   "name": "@vidhiigandhi/blockchainlibrary",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "blockchain storage library for javascript",
   "engines": {
     "node": ">=4.2.4"

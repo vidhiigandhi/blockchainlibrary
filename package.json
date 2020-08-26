@@ -1,5 +1,5 @@
 {
-  "name": "blockchainlib",
+  "name": "@vidhiigandhi/blockchainlibrary",
   "version": "0.1.0",
   "description": "blockchain storage library for javascript",
   "engines": {
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vidhiigandhi/blockchainLib.git"
+    "url": "git+https://github.com/vidhiigandhi/blockchainlibrary.git"
   },
-  "author": "vidhi gandhi <gandhividhi08@gmail.com>",
+  "author": "vidhi gandhi <gandhividhi94@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vidhiigandhi/blockchainLib/issues"
+    "url": "https://github.com/vidhiigandhi/blockchainlibrary/issues"
   },
-  "homepage": "https://github.com/vidhiigandhi/blockchainLib#readme",
+  "homepage": "https://github.com/vidhiigandhi/blockchainlibrary#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "coveralls": "^3.1.0",

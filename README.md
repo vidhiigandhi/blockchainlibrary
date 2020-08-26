@@ -24,14 +24,7 @@ A library that creates, mines, iterates blockchain using the provided database b
         collectionName: 'blocks'
       }
     };
-    blockChain.createGenesisBlock(); // TODO: If to be given to call or added in constructor for static mine
+    blockChain.createGenesisBlock();
     blockChain.addBlock('this is my new block');
     blockChain.showBlocks({constriants: ['here', 16], limit: 2})
-      .then((block) => {
-        console.log(block, 'hi');
-      });
-
-
-## Tests
-
-  `npm test`
+      .then((block) => {});

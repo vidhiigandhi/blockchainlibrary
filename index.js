@@ -1,3 +1,3 @@
 'use strict';
-blockChain = require('./src/BlockChain');
+const blockChain = require('./src/BlockChain');
 module.exports = blockChain;

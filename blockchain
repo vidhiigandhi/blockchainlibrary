@@ -1,0 +1,5 @@
+{"prevHash":"0","data":{"block":"genesisBock"},"hash":"R8ocijtnOCXs/bZ/se5l7m2WUUWHOAIPj81m1Er4fvk=","index":0}
+{"nonce":2638,"index":2,"timeStamp":1598125320963,"data":{"block":"\"this is my new block\""},"prevHash":"R8ocijtnOCXs/bZ/se5l7m2WUUWHOAIPj81m1Er4fvk=","hash":"00Cnc2VF60fkdDAaEb5DdmZJ1R1d7ok2dAdjAhAL37U="}
+{"nonce":2583,"index":2,"timeStamp":1598125321018,"data":{"block":"\"this is my second block\""},"prevHash":"R8ocijtnOCXs/bZ/se5l7m2WUUWHOAIPj81m1Er4fvk=","hash":"00Cnc2VF60fkdDAaEb5DdmZJ1R1d7ok2dAdjAhAL37U="}
+{"nonce":2546,"index":2,"timeStamp":1598125321055,"data":{"block":"[\"here\",16]"},"prevHash":"R8ocijtnOCXs/bZ/se5l7m2WUUWHOAIPj81m1Er4fvk=","hash":"00Cnc2VF60fkdDAaEb5DdmZJ1R1d7ok2dAdjAhAL37U="}
+{"nonce":2489,"index":2,"timeStamp":1598125321112,"data":{"block":"\"this is my fourth block\""},"prevHash":"R8ocijtnOCXs/bZ/se5l7m2WUUWHOAIPj81m1Er4fvk=","hash":"00Cnc2VF60fkdDAaEb5DdmZJ1R1d7ok2dAdjAhAL37U="}

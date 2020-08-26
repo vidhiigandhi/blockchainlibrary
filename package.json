@@ -1,0 +1,35 @@
+{
+  "name": "blockchainlib",
+  "version": "0.1.0",
+  "description": "blockchain storage library for javascript",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidhiigandhi/blockchainLib.git"
+  },
+  "author": "vidhi gandhi <gandhividhi08@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vidhiigandhi/blockchainLib/issues"
+  },
+  "homepage": "https://github.com/vidhiigandhi/blockchainLib#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "coveralls": "^3.1.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^8.1.1",
+    "mysql": "^2.18.1"
+  },
+  "dependencies": {
+    "@mysql/xdevapi": "8.0.21",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.0"
+  }
+}

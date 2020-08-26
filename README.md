@@ -5,7 +5,7 @@ A library that creates, mines, iterates blockchain using the provided database b
 
 ## Installation
 
-  `npm install @vidhiigandhi/blockchainLib`
+  `npm install @vidhiigandhi/blockchainlibrary`
 
 ## Usage
 
